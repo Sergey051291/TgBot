@@ -1,0 +1,10 @@
+﻿aiogram>=3.0
+python-dotenv
+telethon
+ollama
+langchain-ollama
+astrapy
+requests
+telegraph
+# Для локального векторного индекса (FAISS). Убери, если используешь только AstraDB:
+faiss-cpu
