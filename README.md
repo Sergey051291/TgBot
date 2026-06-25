@@ -6,18 +6,6 @@
 
 ---
 
-## Скриншоты
-
-> Добавьте скриншоты в `docs/screenshots/` и раскомментируйте строки ниже.
-
-<!--
-![Меню бота](docs/screenshots/01-bot-menu.png)
-![RAG-ответ](docs/screenshots/02-rag-answer.png)
-![Ссылка на дайджест](docs/screenshots/03-digest.png)
--->
-
----
-
 ## Функциональность
 
 | Функция | Описание |
@@ -127,7 +115,6 @@ TgBot/
 ├── script/                # Вспомогательные скрипты
 ├── .env.example           # Шаблон окружения
 ├── requirements.txt
-└── docs/screenshots/
 ```
 
 ---
@@ -152,6 +139,6 @@ TgBot/
 
 ## Автор
 
-Личный проект — агрегация новостей из Telegram с локальной LLM и RAG.
+Агрегация новостей из Telegram с локальной LLM и RAG.
 
 **Стек:** Python · aiogram · Telethon · Ollama · ChromaDB · LangChain
